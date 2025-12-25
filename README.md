@@ -45,13 +45,12 @@
 
 <img width="930" height="794" alt="use caase" src="https://github.com/user-attachments/assets/6ae58c9c-3628-4866-a98d-a87824d8df8d" />
 
-
 ### 3. Диаграммы классов  
 Отображают структуру классов и связи между ними:
 
-(https://github.com/user-attachments/assets/a66c15fb-a5e2-47f8-b4a2-91b925a3d661)
+![классы](https://github.com/user-attachments/assets/ba0442ff-80cc-4740-b026-cea96e5b12ea)
 
-(https://github.com/user-attachments/assets/528893da-4b30-427e-92a0-ff5abbb0cdbf)
+![результат 2](https://github.com/user-attachments/assets/5f237d2f-c3eb-4ae1-b161-c665dfd4676a)
 
 ###4. Диаграмма состояний (State Machine Diagram)
 Показывает жизненный цикл научного сотрудника (ResearchStaff):
