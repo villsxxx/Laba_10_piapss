@@ -33,7 +33,7 @@
 Декан инициирует запрос на добавление сотрудника. Запрос проходит через иерархию:  
 **University → Faculty → Institute → createAssociate()**
 
-![Sequence Diagram](sequence_diagram.png)
+![Sequence Diagram]<img width="760" height="507" alt="Sequence " src="https://github.com/user-attachments/assets/90352f34-d9ef-4b02-b1a0-8cad71216863" />
 
 ### 2. Диаграмма прецедентов (Use Case)  
 Показывает роли пользователей и их возможности:
@@ -43,15 +43,26 @@
 - **Научный сотрудник**: участие в проектах, просмотр деталей.
 - **Преподаватель**: ведение курсов, просмотр информации.
 
-![Use Case Diagram](use_case_diagram.png)
+![Use Case Diagram]<img width="930" height="794" alt="use caase" src="https://github.com/user-attachments/assets/6ae58c9c-3628-4866-a98d-a87824d8df8d" />
+
 
 ### 3. Диаграммы классов  
 Отображают структуру классов и связи между ними:
 
-- [Диаграмма 1](class_diagram_1.png)
-- [Диаграмма 2](class_diagram_2.png)
+- [Диаграмма 1]![классы](https://github.com/user-attachments/assets/a66c15fb-a5e2-47f8-b4a2-91b925a3d661)
+
+- [Диаграмма 2]![результат 2](https://github.com/user-attachments/assets/528893da-4b30-427e-92a0-ff5abbb0cdbf)
+
+###4. Диаграмма состояний (State Machine Diagram)
+Показывает жизненный цикл научного сотрудника (ResearchStaff):
+
+Создан → Назначен на кафедру → Работает над проектами → Уволен (Неактивен).
+
+<img width="572" height="815" alt="диагр сосст" src="https://github.com/user-attachments/assets/a2a579fc-16d7-4606-9cb9-8e4040f1d31b" />
+
 
 ---
+
 
 ##  Пример вывода программы
 
